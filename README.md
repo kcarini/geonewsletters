@@ -44,7 +44,7 @@ Geographical Magazine http://geographical.co.uk/magazine/newsletters
 
 ### Cartography, Design & Data Visualization
 
-Visualising Data https://www.visualisingdata.com/ (RSS?)
+Visualising Data https://www.visualisingdata.com/ [RSS only](https://www.visualisingdata.com/feed/)
 
 Data Visualization Society https://www.datavisualizationsociety.com/
 Medium: https://medium.com/nightingale
