@@ -13,8 +13,6 @@ Geoawesomeness https://www.geoawesomeness.com/
 
 GIS Resources https://www.gisresources.com/subscribe-our-weekly-newsletter/
 
-GISuser GeoTech News https://gisuser.com/ also has [RSS](https://gisuser.com/feed/)
-
 GIS Lounge https://www.gislounge.com/subscribe/
 
 Spatial Awareness (Robin Hawkes) https://www.getrevue.co/profile/maps
