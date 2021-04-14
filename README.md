@@ -61,7 +61,7 @@ The American surveyor Magazine https://amerisurv.com/plans/subscribe-to-american
 
 American Society for Photogrammetry and Remote Sensing https://www.asprs.org/ (subscribe?)
 
-Point of Beginning https://webforms.omeda.com/pob/r-paid.do?returnurl=https://www.pobonline.com/user/omeda&p=POBPAID&_ga=2.196656876.1199010476.1603422832-1558881755.1603422832
+Point of Beginning [Sign up](https://webforms.omeda.com/pob/r-paid.do?returnurl=https://www.pobonline.com/user/omeda&p=POBPAID&_ga=2.196656876.1199010476.1603422832-1558881755.1603422832)
 
 ### General Tech & Management
 
