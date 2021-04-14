@@ -64,4 +64,4 @@ ArcUser https://www.esri.com/about/newsroom/arcuser
 
 MapLab (Bloomberg CityLab) https://www.bloomberg.com/citylab/maplab
 
-
+Geospatial Jobs https://geospatial.substack.com/p/welcome-to-geospatial-jobs-newsletter
