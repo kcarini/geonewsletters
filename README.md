@@ -49,7 +49,7 @@ Visualising Data https://www.visualisingdata.com/ ([RSS only](https://www.visual
 Data Visualization Society https://www.datavisualizationsociety.com/
 Medium: https://medium.com/nightingale
 
-The Map Room: https://www.maproomblog.com/
+The Map Room: https://www.maproomblog.com/ ([RSS only](http://feeds.feedburner.com/maproom))
 
 ### Drones, Surveying, Remote Sensing
 
