@@ -1,5 +1,8 @@
 # geonewsletters
 Crowd-sourced collection of geo &amp; geo-adjacent newsletters. Started with [this tweet](https://twitter.com/KiriCarini/status/1309974962426376192).
+I've linked directly to the sign up page where applicable. Often the sign up is just on the homepage of the website. Many also indicate RSS feeds if that is your preference. 
+
+Feel free to submit new resources or propose a change in category. Some obviously span multiple categories and I just picked one.
 
 ## DRAFT: A WORK IN PROCESS
 
