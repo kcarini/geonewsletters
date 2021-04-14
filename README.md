@@ -15,7 +15,7 @@ GIS Resources https://www.gisresources.com/subscribe-our-weekly-newsletter/
 
 GIS Lounge https://www.gislounge.com/subscribe/
 
-Spatial Awareness (Robin Hawkes) https://www.getrevue.co/profile/maps
+Spatial Awareness by [Robin Hawkes](https://twitter.com/robhawkes):  https://www.getrevue.co/profile/maps
 
 xyHt https://d3data.net/xyh/landing.html
 
