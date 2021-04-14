@@ -1,5 +1,5 @@
 # geonewsletters
-Crowd-sourced collection of geo &amp; geo-adjacent newsletters. Started with [this tweet] (https://twitter.com/KiriCarini/status/1309974962426376192).
+Crowd-sourced collection of geo &amp; geo-adjacent newsletters. Started with [this tweet](https://twitter.com/KiriCarini/status/1309974962426376192).
 
 ## DRAFT: A WORK IN PROCESS
 
