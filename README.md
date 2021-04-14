@@ -69,7 +69,7 @@ Gartner https://www.gartner.com/en
 
 CIO Dive https://www.ciodive.com/signup/
 
-McKinsey & Company https://www.mckinsey.com/#
+McKinsey & Company https://www.mckinsey.com/user-registration/register?source=print
 
 Enterprisers Project https://enterprisersproject.com/
 
