@@ -11,7 +11,7 @@ Go Geomatics Canadian Spatial Times Newsletter https://gogeomatics.ca/subscribe/
 
 Geoawesomeness https://www.geoawesomeness.com/
 
-GIS Resources https://twitter.com/GISResources
+GIS Resources https://www.gisresources.com/subscribe-our-weekly-newsletter/
 
 GISuser GeoTech News https://gisuser.com/ (pop up to subscribe, also RSS feeds)
 
