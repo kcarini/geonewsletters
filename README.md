@@ -78,4 +78,4 @@ MIT Technology Review https://forms.technologyreview.com/newsletters/
 
 ### Jobs
 
-Geospatial Jobs by [Ali Ahmadalipour](https://twitter.com/hydroclimali) https://geospatial.substack.com/p/welcome-to-geospatial-jobs-newsletter
+Geospatial Jobs by [Ali Ahmadalipour](https://twitter.com/hydroclimali):  https://geospatial.substack.com/p/welcome-to-geospatial-jobs-newsletter
