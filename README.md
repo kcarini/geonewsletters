@@ -65,7 +65,7 @@ Point of Beginning [Sign up](https://webforms.omeda.com/pob/r-paid.do?returnurl=
 
 CIOWaterCooler https://ciowatercooler.co.uk/about-ciowatercooler/?utm_source=Follow&utm_medium=Twitter&utm_campaign=DirectM
 
-Gartner https://www.gartner.com/en
+Gartner https://www.gartner.com/en/information-technology/it-newsletter-signup
 
 CIO Dive https://www.ciodive.com/signup/
 
