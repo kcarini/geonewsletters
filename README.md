@@ -77,6 +77,8 @@ Enterprisers Project <https://enterprisersproject.com/>
 
 MIT Technology Review <https://forms.technologyreview.com/newsletters/>`
 
+GISSuccess <http://munigovguy.com/> sign up at bottom of the page
+
 ### Jobs
 
 Geospatial Jobs by [Ali Ahmadalipour](https://twitter.com/hydroclimali):  <https://geospatial.substack.com/p/welcome-to-geospatial-jobs-newsletter>
