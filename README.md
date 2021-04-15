@@ -8,9 +8,9 @@ Feel free to submit new resources or propose a change in category. Some obviousl
 
 ### General GIS & Geospatial News
 
-Spatial Source https://www.spatialsource.com.au/category/emailnewsletter
+Spatial Source <https://www.spatialsource.com.au/category/emailnewsletter>
 
-Go Geomatics Canadian Spatial Times Newsletter https://gogeomatics.ca/subscribe/
+Go Geomatics Canadian Spatial Times Newsletter <https://gogeomatics.ca/subscribe/>
 
 Geoawesomeness https://www.geoawesomeness.com/
 
