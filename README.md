@@ -51,6 +51,8 @@ Medium: https://medium.com/nightingale
 
 The Map Room: https://www.maproomblog.com/ ([RSS only](http://feeds.feedburner.com/maproom))
 
+Datawrapper: https://blog.datawrapper.de/newsletter/
+
 ### Drones, Surveying, Remote Sensing
 
 sUAS News https://www.suasnews.com/
