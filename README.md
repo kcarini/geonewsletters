@@ -55,7 +55,7 @@ The Map Room: https://www.maproomblog.com/ ([RSS only](http://feeds.feedburner.c
 
 sUAS News https://www.suasnews.com/
 
-UAS Magazine http://www.uasmagazine.com/
+UAS Magazine http://www.uasmagazine.com/newsletter/uasweek/
 
 The American surveyor Magazine https://amerisurv.com/plans/subscribe-to-american-surveyor/
 
