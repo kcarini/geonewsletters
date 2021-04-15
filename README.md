@@ -32,6 +32,8 @@ ArcUser <https://www.esri.com/about/newsroom/arcuser>
 
 MapLab (Bloomberg CityLab) <https://www.bloomberg.com/citylab/maplab>
 
+A Closer Look ([Joe Morrison](https://twitter.com/mouthofmorrison)) <https://joemorrison.substack.com/>
+
 ### Spanish / Español
 
 Nosolosig <http://www.nosolosig.com/sumate-a-nosolosig>
