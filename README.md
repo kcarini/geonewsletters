@@ -46,6 +46,8 @@ GIS Ed Weekly <http://blog.abs-cg.com/>
 
 Geographical Magazine <http://geographical.co.uk/magazine/newsletters>
 
+Spatial Reserves <https://spatialreserves.wordpress.com/>
+
 ### Cartography, Design & Data Visualization
 
 Visualising Data <https://www.visualisingdata.com/> ([RSS only](https://www.visualisingdata.com/feed/))
