@@ -4,8 +4,6 @@ I've linked directly to the sign up page where applicable. Often the sign up is 
 
 Feel free to submit new resources or propose a change in category. Some obviously span multiple categories and I just picked one.
 
-## DRAFT: A WORK IN PROCESS
-
 ### General GIS & Geospatial News
 
 Spatial Source <https://www.spatialsource.com.au/category/emailnewsletter>
@@ -33,6 +31,8 @@ ArcUser <https://www.esri.com/about/newsroom/arcuser>
 MapLab (Bloomberg CityLab) <https://www.bloomberg.com/citylab/maplab>
 
 A Closer Look ([Joe Morrison](https://twitter.com/mouthofmorrison)) <https://joemorrison.substack.com/>
+
+International Cartographic Association (ICA) <https://icaci.org/email-newsletter/>
 
 ### Spanish / Español
 
