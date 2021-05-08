@@ -36,6 +36,8 @@ International Cartographic Association (ICA) <https://icaci.org/email-newsletter
 
 OpenStreetMapUS [Sign up](https://openstreetmap.us3.list-manage.com/subscribe?u=162692bfdedb78ec46fd108a3&id=801ce00e6d)
 
+All that Geo <https://www.allthatgeo.com/>
+
 ### Spanish / Español
 
 Nosolosig <http://www.nosolosig.com/sumate-a-nosolosig>
