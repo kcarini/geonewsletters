@@ -38,6 +38,8 @@ OpenStreetMapUS [Sign up](https://openstreetmap.us3.list-manage.com/subscribe?u=
 
 All that Geo <https://www.allthatgeo.com/>
 
+Planet Snapshots <https://learn.planet.com/Snapshots_newsletter_Subscription.html>
+
 ### Spanish / Español
 
 Nosolosig <http://www.nosolosig.com/sumate-a-nosolosig>
