@@ -38,7 +38,7 @@ OpenStreetMapUS [Sign up](https://openstreetmap.us3.list-manage.com/subscribe?u=
 
 All that Geo <https://www.allthatgeo.com/>
 
-Planet Snapshots <https://learn.planet.com/Snapshots_newsletter_Subscription.html>
+Azavea <https://www.azavea.com/newsletter/>
 
 ### Spanish / Español
 
@@ -72,6 +72,8 @@ UAS Magazine <http://www.uasmagazine.com/newsletter/uasweek/>
 The American surveyor Magazine <https://amerisurv.com/plans/subscribe-to-american-surveyor/>
 
 Point of Beginning [Sign up](https://webforms.omeda.com/pob/r-paid.do?returnurl=https://www.pobonline.com/user/omeda&p=POBPAID&_ga=2.196656876.1199010476.1603422832-1558881755.1603422832)
+
+Planet Snapshots <https://learn.planet.com/Snapshots_newsletter_Subscription.html>
 
 ### General Tech & Management
 
