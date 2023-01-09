@@ -65,6 +65,8 @@ Datawrapper: <https://blog.datawrapper.de/newsletter/>
 
 ### Drones, Surveying, Remote Sensing
 
+satellite-image-deep-learning <https://www.satellite-image-deep-learning.com/>
+
 sUAS News <https://www.suasnews.com/>
 
 UAS Magazine <http://www.uasmagazine.com/newsletter/uasweek/>
